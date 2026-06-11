@@ -1,0 +1,41 @@
+[2026-06-10T15:24:47.418Z] info: kubernetes.yaml was copied to the config folder
+[2026-06-11T13:10:25.916Z] info: docker.yaml was copied to the config folder
+[2026-06-11T13:10:25.926Z] info: services.yaml was copied to the config folder
+[2026-06-11T13:10:25.932Z] info: bookmarks.yaml was copied to the config folder
+[2026-06-11T13:10:25.935Z] info: proxmox.yaml was copied to the config folder
+[2026-06-11T13:10:25.984Z] info: widgets.yaml was copied to the config folder
+[2026-06-11T13:10:25.987Z] info: custom.css was copied to the config folder
+[2026-06-11T13:10:25.989Z] info: custom.js was copied to the config folder
+[2026-06-11T13:10:31.227Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-06-11T13:10:31.250Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.github.com
+      at ignore-listed frames {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]
+[2026-06-11T13:21:05.894Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-06-11T13:21:05.902Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.github.com
+      at ignore-listed frames {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]
+[2026-06-11T13:26:29.920Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-06-11T13:26:29.927Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.github.com
+      at ignore-listed frames {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]
