@@ -1,4 +1,0 @@
-2026/06/11 13:23:26 [error] 264#264: *692 portainer could not be resolved (2: Server failure), client: 192.168.47.1, server: portainer.lab.local, request: "GET / HTTP/1.1", host: "portainer.lab.local"
-2026/06/11 13:23:26 [error] 264#264: *692 portainer could not be resolved (2: Server failure), client: 192.168.47.1, server: portainer.lab.local, request: "GET /favicon.ico HTTP/1.1", host: "portainer.lab.local", referrer: "http://portainer.lab.local/"
-2026/06/11 13:26:32 [error] 264#264: *731 portainer could not be resolved (2: Server failure), client: 192.168.47.1, server: portainer.lab.local, request: "GET / HTTP/1.1", host: "portainer.lab.local", referrer: "http://192.168.47.150:81/"
-2026/06/11 13:26:32 [error] 264#264: *731 portainer could not be resolved (2: Server failure), client: 192.168.47.1, server: portainer.lab.local, request: "GET /favicon.ico HTTP/1.1", host: "portainer.lab.local", referrer: "http://portainer.lab.local/"
